@@ -1,0 +1,2 @@
+Simple model (Hours_Studied only): R2=0.297, MAE=4.33, RMSE=5.59
+Full model (all features): R2=0.496, MAE=3.72, RMSE=4.73
